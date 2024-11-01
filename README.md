@@ -9,7 +9,9 @@
 4. Once the app is installed, add it to your homescreen.
 
 ## App List
-[example.apk](https://github.com/RileyFixIt/android-apks/blob/main/README.md#exampleapk)
-
+1. [example.apk](https://github.com/RileyFixIt/android-apks/blob/main/README.md#exampleapk)
+2. [termux.apk](https://github.com/RileyFixIt/android-apks/blob/main/README.md#termuxapk)
 ### example.apk
+This application is simply an Android Development Test.
+### termux.apk
 This application is simply an Android Development Test.
