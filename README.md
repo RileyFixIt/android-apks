@@ -9,7 +9,7 @@
 4. Once the app is installed, add it to your homescreen.
 
 ## App List
-[example.apk](#example.apk)
+[example.apk](https://github.com/RileyFixIt/android-apks/blob/main/README.md#exampleapk)
 
 ### example.apk
 This application is simply an Android Development Test.
